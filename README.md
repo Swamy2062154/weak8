@@ -1,1 +1,1 @@
-# weak8
+# pstj-week-8
